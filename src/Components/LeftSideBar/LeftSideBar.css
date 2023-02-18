@@ -1,0 +1,9 @@
+.LeftSideBar {
+  flex: 3;
+  height: calc(100vh-50px);
+}
+
+.sidebarWrapper {
+  padding: 30px;
+  background-color: aqua;
+}

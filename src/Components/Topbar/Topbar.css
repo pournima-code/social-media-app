@@ -69,8 +69,8 @@
   cursor: pointer;
 }
 
-.topbarIcons {
-  display: flex;
+.topbarIcons{
+    display: flex;
 }
 
 .topbarIconItem {
@@ -93,3 +93,5 @@
   justify-content: center;
   font-size: 12px;
 }
+
+
