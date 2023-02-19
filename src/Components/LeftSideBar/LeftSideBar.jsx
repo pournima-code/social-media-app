@@ -57,6 +57,88 @@ export default function LeftSideBar() {
         </ul>
         <button className="sidebarButton">Show More</button>
         <hr className="sidebarHr" />
+        <ui className="sidebarfriendlist">
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/1.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/3.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/4.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/5.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/6.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/7.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/8.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/9.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+          <li className="sidebarfriend">
+            <img
+              src="/assets/person/10.jpeg"
+              alt="john doe"
+              className="sidebarfriendimage"
+            />
+            <span className="sidebarfriendname">john doe</span>
+          </li>
+        </ui>
       </div>
     </div>
   )
